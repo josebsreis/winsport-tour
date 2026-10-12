@@ -912,7 +912,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/plaza-no-set-up-0c7de4fa",
+        "dir": "tiles/plaza-no-set-up-341a3f95",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -940,7 +940,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/plaza-cocktail-reception-e2bb6bf3",
+        "dir": "tiles/plaza-cocktail-reception-39fdd5bb",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -968,7 +968,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/arena-a-hockey-afd0ddf2",
+        "dir": "tiles/arena-a-hockey-6580f071",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -996,7 +996,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/arena-a-concert-d5af1dcb",
+        "dir": "tiles/arena-a-concert-0a6802fd",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1024,7 +1024,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/arena-a-trade-show-4dc39846",
+        "dir": "tiles/arena-a-trade-show-569d7b01",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1052,7 +1052,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/arena-b-654331ce",
+        "dir": "tiles/arena-b-d56b552f",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1080,7 +1080,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/meet-bc-9f2c3861",
+        "dir": "tiles/meet-bc-43ca7ffb",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1108,7 +1108,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/meet-cd-4fdca4f6",
+        "dir": "tiles/meet-cd-cc71536d",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1136,7 +1136,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/garden-cafe-4d032cff",
+        "dir": "tiles/garden-cafe-c8aa67ad",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1164,7 +1164,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/ice-house-4edf768a",
+        "dir": "tiles/ice-house-d7941385",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1192,7 +1192,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/legacy-theatre-26f88370",
+        "dir": "tiles/legacy-theatre-687d3881",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1220,7 +1220,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/legacy-banquet-66347299",
+        "dir": "tiles/legacy-banquet-830e4980",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1248,7 +1248,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/paskapoo-boardroom-dc4fcff1",
+        "dir": "tiles/paskapoo-boardroom-aa45d142",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1276,7 +1276,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/paskapoo-reception-1731f052",
+        "dir": "tiles/paskapoo-reception-cf6328d1",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1304,7 +1304,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/hockey-house-18695229",
+        "dir": "tiles/hockey-house-5ac580b3",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1332,7 +1332,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/lodge-deck-bdfdf6cb",
+        "dir": "tiles/lodge-deck-445ba5ba",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1360,7 +1360,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/lodge-right-lounge-b553b353",
+        "dir": "tiles/lodge-right-lounge-a8366ac8",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1388,7 +1388,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/lodge-right-private-event-1d8cd777",
+        "dir": "tiles/lodge-right-private-event-65b6517b",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1416,7 +1416,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/lodge-left-lounge-d9d942c6",
+        "dir": "tiles/lodge-left-lounge-06c9e434",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1444,7 +1444,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/lodge-left-private-event-9ea219e6",
+        "dir": "tiles/lodge-left-private-event-1eb1da8d",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1472,7 +1472,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/food-hall-d074634c",
+        "dir": "tiles/food-hall-5dc3b8db",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1500,7 +1500,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/eighty-eight-90aa0289",
+        "dir": "tiles/eighty-eight-24b103f6",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1528,7 +1528,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/banquet-rounds-4e7f8982",
+        "dir": "tiles/banquet-rounds-7c168f38",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1556,7 +1556,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/banquet-reception-1910b370",
+        "dir": "tiles/banquet-reception-c3d51725",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1584,7 +1584,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/theatre-4e6fbee6",
+        "dir": "tiles/theatre-a4e1cba4",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1612,7 +1612,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/mr1-9a6f35e4",
+        "dir": "tiles/mr1-15e79c27",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1640,7 +1640,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/mr2-eabd9fe7",
+        "dir": "tiles/mr2-47e3d945",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1668,7 +1668,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/ski-hill-winter-3cb79e92",
+        "dir": "tiles/ski-hill-winter-325d4dfe",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1696,7 +1696,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/ski-hill-summer-e37adccf",
+        "dir": "tiles/ski-hill-summer-141b9690",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1724,7 +1724,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/tube-park-d8952084",
+        "dir": "tiles/tube-park-6127fe03",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1752,7 +1752,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/mini-golf-697613b9",
+        "dir": "tiles/mini-golf-98fc75b9",
         "width": 4992,
         "cols": 4,
         "rows": 2,
@@ -1780,7 +1780,7 @@
       "projection": "equirect",
       "source": {
         "kind": "tiled",
-        "dir": "tiles/parking-f49efb1f",
+        "dir": "tiles/parking-d01a4940",
         "width": 4992,
         "cols": 4,
         "rows": 2,
